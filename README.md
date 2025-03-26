@@ -4,7 +4,7 @@ I'm a passionate **frontend developer** with a love for building beautiful, resp
 
 ### 💻 What I do:
 - Focused on **JavaScript**, **React**, and modern frontend frameworks
-- Currently learning **TypeScript** and improving my backend skills
+- Currently learning **Node.js** and improving my backend skills
 - Enjoy building clean UIs with **TailwindCSS**, **Bootstrap**, and **Next.js**
 
 ---
