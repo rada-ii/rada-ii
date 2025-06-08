@@ -1,12 +1,11 @@
 # Hi there, I'm Rada 👋
-
-I'm a **frontend developer** with a passion for building web applications. I enjoy working with modern JavaScript frameworks and creating responsive user interfaces.
+I'm a **software developer** with a passion for building web applications. I enjoy working with modern JavaScript frameworks and creating responsive user interfaces.
 
 ### 💻 What I do:
-- Build web applications with **React** and **Vue.js**
+- Build web applications with **React** and **Next.js**
 - Write clean, maintainable code in **JavaScript** and **TypeScript**
 - Create responsive designs with **TailwindCSS** and modern CSS
-- Recently built full-stack application with **Node.js** and **PostgreSQL**
+- Recently built full-stack applications with **Node.js**, **PostgreSQL** and **MongoDB**
 
 ---
 
@@ -20,6 +19,7 @@ I'm a **frontend developer** with a passion for building web applications. I enj
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -28,17 +28,23 @@ I'm a **frontend developer** with a passion for building web applications. I enj
 ### 🚀 Featured Projects:
 
 #### 🎉 **Event Manager**
-Full-stack event management platform with user authentication, image uploads, and real-time updates.
-
+Full-stack event management platform with user authentication, image uploads, and real-time updates.  
 **Technologies:** React, TypeScript, Node.js, PostgreSQL, Cloudinary  
 **GitHub:** [View Repository](https://github.com/rada-ii/event-manager)  
 **Live Demo:** [Try it Live](https://event-manager-frontend-ruby.vercel.app)
 
 ---
 
-#### ✉️ **Email Signature Generator**
-Professional email signature creation tool with real-time preview and multiple template options.
+#### 💼 **Portfolio Website**
+Modern portfolio with glassmorphism design, contact form, and admin panel.  
+**Technologies:** Next.js, TypeScript, MongoDB, Tailwind CSS  
+**GitHub:** [View Repository](https://github.com/rada-ii/portfolio-v2)  
+**Live Demo:** [Try it Live](https://portfolio-v2-topaz-pi.vercel.app)
 
+---
+
+#### ✉️ **Email Signature Generator**
+Professional email signature creation tool with real-time preview and multiple template options.  
 **Technologies:** Vue 3, Vite, Tailwind CSS  
 **GitHub:** [View Repository](https://github.com/rada-ii/Email-signature-generator)  
 **Live Demo:** [Try it Live](https://email-signature-generator-steel.vercel.app/)
@@ -46,8 +52,7 @@ Professional email signature creation tool with real-time preview and multiple t
 ---
 
 #### 🎮 **Pokémon React App**
-Interactive Pokémon browser with search functionality, favorites system, and responsive design.
-
+Interactive Pokémon browser with search functionality, favorites system, and responsive design.  
 **Technologies:** React, Axios, Bootstrap  
 **GitHub:** [View Repository](https://github.com/rada-ii/Pokemon-react-app)  
 **Live Demo:** [Try it Live](https://pokemon-react-app-gamma.vercel.app/)
@@ -55,8 +60,7 @@ Interactive Pokémon browser with search functionality, favorites system, and re
 ---
 
 #### 📺 **Rick and Morty Explorer**
-Character discovery platform with dark/light theme toggle and pagination functionality.
-
+Character discovery platform with dark/light theme toggle and pagination functionality.  
 **Technologies:** JavaScript, jQuery, Bootstrap  
 **GitHub:** [View Repository](https://github.com/rada-ii/Rick_and_Morty)  
 **Live Demo:** [Try it Live](https://rada-ii.github.io/Rick_and_Morty/)
@@ -65,6 +69,7 @@ Character discovery platform with dark/light theme toggle and pagination functio
 
 ### 📫 Contact:
 - **Email:** [ra.da@live.com](mailto:ra.da@live.com)
-- **LinkedIn:** [Rada Ivanković](https://www.linkedin.com/in/rada-ivankovic)
+- **LinkedIn:** [Rada Ivanković](https://www.linkedin.com/in/rada-ivankovi%C4%87-52621b74/)
+- **Portfolio:** [My Portfolio](https://portfolio-v2-topaz-pi.vercel.app)
 
 Thanks for visiting my profile! 😊
