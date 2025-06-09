@@ -30,46 +30,46 @@ I'm a **software developer** with a passion for building web applications. I enj
 #### 🎉 **Event Manager**
 Full-stack event management platform with user authentication, image uploads, and real-time updates.  
 **Technologies:** React, TypeScript, Node.js, PostgreSQL, Cloudinary  
-**GitHub:** [View Repository](https://github.com/rada-ii/event-manager)  
-**Live Demo:** [Try it Live](https://event-manager-frontend-ruby.vercel.app)
+**GitHub:** <a href="https://github.com/rada-ii/event-manager" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://event-manager-frontend-ruby.vercel.app" target="_blank">Try it Live</a>
 
 ---
 
 #### 💼 **Portfolio Website**
 Modern portfolio with glassmorphism design, contact form, and admin panel.  
 **Technologies:** Next.js, TypeScript, MongoDB, Tailwind CSS  
-**GitHub:** [View Repository](https://github.com/rada-ii/portfolio-v2)  
-**Live Demo:** [Try it Live](https://portfolio-v2-topaz-pi.vercel.app)
+**GitHub:** <a href="https://github.com/rada-ii/portfolio-v2" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://portfolio-v2-topaz-pi.vercel.app" target="_blank">Try it Live</a>
 
 ---
 
 #### ✉️ **Email Signature Generator**
 Professional email signature creation tool with real-time preview and multiple template options.  
 **Technologies:** Vue 3, Vite, Tailwind CSS  
-**GitHub:** [View Repository](https://github.com/rada-ii/Email-signature-generator)  
-**Live Demo:** [Try it Live](https://email-signature-generator-steel.vercel.app/)
+**GitHub:** <a href="https://github.com/rada-ii/Email-signature-generator" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://email-signature-generator-steel.vercel.app/" target="_blank">Try it Live</a>
 
 ---
 
 #### 🎮 **Pokémon React App**
 Interactive Pokémon browser with search functionality, favorites system, and responsive design.  
 **Technologies:** React, Axios, Bootstrap  
-**GitHub:** [View Repository](https://github.com/rada-ii/Pokemon-react-app)  
-**Live Demo:** [Try it Live](https://pokemon-react-app-gamma.vercel.app/)
+**GitHub:** <a href="https://github.com/rada-ii/Pokemon-react-app" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://pokemon-react-app-gamma.vercel.app/" target="_blank">Try it Live</a>
 
 ---
 
 #### 📺 **Rick and Morty Explorer**
 Character discovery platform with dark/light theme toggle and pagination functionality.  
 **Technologies:** JavaScript, jQuery, Bootstrap  
-**GitHub:** [View Repository](https://github.com/rada-ii/Rick_and_Morty)  
-**Live Demo:** [Try it Live](https://rada-ii.github.io/Rick_and_Morty/)
+**GitHub:** <a href="https://github.com/rada-ii/Rick_and_Morty" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://rada-ii.github.io/Rick_and_Morty/" target="_blank">Try it Live</a>
 
 ---
 
 ### 📫 Contact:
-- **Email:** [ra.da@live.com](mailto:ra.da@live.com)
-- **LinkedIn:** [Rada Ivanković](https://www.linkedin.com/in/rada-ivankovi%C4%87-52621b74/)
-- **Portfolio:** [My Portfolio](https://portfolio-v2-topaz-pi.vercel.app)
+- **Email:** <a href="mailto:ra.da@live.com" target="_blank">ra.da@live.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/rada-ivankovi%C4%87-52621b74/" target="_blank">Rada Ivanković</a>
+- **Portfolio:** <a href="https://portfolio-v2-topaz-pi.vercel.app" target="_blank">My Portfolio</a>
 
 Thanks for visiting my profile! 😊
