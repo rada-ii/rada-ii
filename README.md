@@ -1,11 +1,15 @@
 # Hi there, I'm Rada 👋
-I'm a **software developer** with a passion for building web applications. I enjoy working with modern JavaScript frameworks and creating responsive user interfaces.
+
+I'm a **developer** who believes the best solutions come from persistence and genuine care for the craft. I won't settle for "good enough" when "exactly right" is possible.
 
 ### 💻 What I do:
-- Build web applications with **React** and **Next.js**
-- Write clean, maintainable code in **JavaScript** and **TypeScript**
-- Create responsive designs with **TailwindCSS** and modern CSS
-- Recently built full-stack applications with **Node.js**, **PostgreSQL** and **MongoDB**
+- Create applications that solve real problems for real people
+- Approach challenges with patience and methodical problem-solving
+- Focus on the details that transform good experiences into great ones  
+- Embrace continuous learning as part of the journey
+- Find joy in those breakthrough moments when everything clicks into place
+
+*Always curious, always building, always improving.*
 
 ---
 
@@ -18,6 +22,7 @@ I'm a **software developer** with a passion for building web applications. I enj
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
@@ -26,6 +31,13 @@ I'm a **software developer** with a passion for building web applications. I enj
 ---
 
 ### 🚀 Featured Projects:
+
+#### 🏨 **WordPress Hotel Booking Plugin**
+Complete hotel reservation system with Beds24 API integration, Stripe payments, and test mode for development.  
+**Technologies:** WordPress, PHP, JavaScript, Stripe API, Beds24 API  
+**Live Demo:** <a href="https://dev-bookingroom.pantheonsite.io/booking/" target="_blank">Try it Live</a>
+
+---
 
 #### 🎉 **Event Manager**
 Full-stack event management platform with user authentication, image uploads, and real-time updates.  
