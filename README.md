@@ -32,6 +32,15 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 
 ### 🚀 Featured Projects:
 
+#### 📧 **Message Admin** - WordPress Plugin
+Advanced message management system with smart targeting, analytics dashboard, and comprehensive admin interface.  
+**Technologies:** PHP 8.2+, MySQL, JavaScript ES6, Chart.js, CSS Grid  
+**Features:** User Role Targeting, Page Targeting, Scheduling, Analytics, Import/Export   
+**GitHub:** <a href="https://github.com/rada-ii/message-admin" target="_blank">View Repository</a>   
+**Live Demo:** <a href="https://dev-message-admin.pantheonsite.io/home/" target="_blank">Try it Live</a>
+
+---
+
 #### 🏨 **WordPress Hotel Booking Plugin**
 Complete hotel reservation system with Beds24 API integration, Stripe payments, and test mode for development.  
 **Technologies:** WordPress, PHP, JavaScript, Stripe API, Beds24 API  
