@@ -4,6 +4,8 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 
 ### 💻 What I do:
 - Create applications that solve real problems for real people
+- Build AI-powered automation tools that transform manual processes into intelligent workflows
+- Combine traditional web development with cutting-edge AI integration
 - Approach challenges with patience and methodical problem-solving
 - Focus on the details that transform good experiences into great ones  
 - Embrace continuous learning as part of the journey
@@ -14,6 +16,9 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 ---
 
 ### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,7 +35,18 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 
 ---
 
-### 🚀 Featured Projects:
+### 🤖 AI Automation Project:
+
+#### ⭐ **Celebrity Chat Bot** - AI Web Application
+Interactive web app for realistic conversations with any celebrity using advanced AI.  
+**Technologies:** Python, Streamlit, OpenAI GPT-3.5-turbo API  
+**Features:** Natural conversation flow, personality-accurate responses, adjustable creativity levels  
+**GitHub:** <a href="https://github.com/rada-ii/celebrity-chatbot-web" target="_blank">View Repository</a>   
+**Live Demo:** <a href="https://celebrity-chatbot.streamlit.app/" target="_blank">Try it Live</a>
+
+---
+
+### 🚀 Web Development Projects:
 
 #### 📧 **Message Admin** - WordPress Plugin
 Advanced message management system with smart targeting, analytics dashboard, and comprehensive admin interface.  
