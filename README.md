@@ -1,6 +1,6 @@
 # Hi there, I'm Rada 👋
 
-I'm a **developer** who believes the best solutions come from persistence and genuine care for the craft. I won't settle for "good enough" when "exactly right" is possible.
+I'm a **developer** who believes the best solutions come from persistence and genuine care for the craft. I believe in building solutions that work reliably and solve real problems.
 
 ### 💻 What I do:
 - Create applications that solve real problems for real people
@@ -11,6 +11,13 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 - Embrace continuous learning as part of the journey
 - Find joy in those breakthrough moments when everything clicks into place
 
+### 🎯 Current Focus:
+- AI Automation & Process Optimization
+- Web Scraping with Selenium & Beautiful Soup
+- OpenAI API Integration & Prompt Engineering  
+- Full-stack Development with Python & React
+- Streamlit Application Development & Deployment
+
 *Always curious, always building, always improving.*
 
 ---
@@ -19,6 +26,7 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,9 +43,18 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 
 ---
 
-### 🤖 AI Automation Project:
+### 🤖 AI Automation Projects:
 
-#### ⭐ **Celebrity Chat Bot** - AI Web Application
+#### ⭐ **Job Hunt Bot** - AI Automation Assistant
+Professional job hunting automation with AI-powered cover letter generation and ethical compliance design.  
+**Technologies:** Python, Selenium, OpenAI GPT-3.5, Streamlit, SQLite  
+**Features:** LinkedIn job scraping, AI cover letter generation, application tracking, web dashboard  
+**GitHub:** <a href="https://github.com/rada-ii/job-hunt-bot" target="_blank">View Repository</a>   
+**Live Demo:** <a href="https://job-hunt-bot.streamlit.app/" target="_blank">Try it Live</a>
+
+---
+
+#### 🎭 **Celebrity Chat Bot** - AI Web Application
 Interactive web app for realistic conversations with any celebrity using advanced AI.  
 **Technologies:** Python, Streamlit, OpenAI GPT-3.5-turbo API  
 **Features:** Natural conversation flow, personality-accurate responses, adjustable creativity levels  
@@ -106,7 +123,7 @@ Character discovery platform with dark/light theme toggle and pagination functio
 
 ### 📫 Contact:
 - **Email:** <a href="mailto:ra.da@live.com" target="_blank">ra.da@live.com</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/rada-ivankovi%C4%87-52621b74/" target="_blank">Rada Ivanković</a>
+- **LinkedIn:** <a href="https://www.linkedin.in/rada-ivankovi%C4%87-52621b74/" target="_blank">Rada Ivanković</a>
 - **Portfolio:** <a href="https://portfolio-v2-topaz-pi.vercel.app" target="_blank">My Portfolio</a>
 
 Thanks for visiting my profile! 😊
