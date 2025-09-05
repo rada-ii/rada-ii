@@ -45,6 +45,15 @@ I'm a **developer** who believes the best solutions come from persistence and ge
 
 ### 🤖 AI Automation Projects:
 
+#### 📚 **Universal LLM Prompts** - Professional Prompt Library  
+Enterprise-grade prompt library for ChatGPT, Claude, and major LLMs, designed for cross-industry professional use with comprehensive testing and quality assurance.  
+**Technologies:** Python, JSON/CSV Validation, Cross-platform Testing, Automated QA Pipelines  
+**Features:** 31 production-ready prompts, dual-track system (simple/structured), comprehensive testing framework, industry-specific templates  
+**GitHub:** <a href="https://github.com/rada-ii/universal-llm-prompts" target="_blank">View Repository</a>  
+**Industries:** Business, Healthcare, Legal, Finance, Education, Real Estate, Creative, Productivity
+
+---
+
 #### ⭐ **Job Hunt Bot** - AI Automation Assistant
 Professional job hunting automation with AI-powered cover letter generation and ethical compliance design.  
 **Technologies:** Python, Selenium, OpenAI GPT-3.5, Streamlit, SQLite  
