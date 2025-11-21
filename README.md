@@ -102,7 +102,7 @@ Full-stack event management platform with user authentication, image uploads, an
 Modern portfolio with glassmorphism design, contact form, and admin panel.  
 **Technologies:** Next.js, TypeScript, MongoDB, Tailwind CSS  
 **GitHub:** <a href="https://github.com/rada-ii/portfolio-v2" target="_blank">View Repository</a>  
-**Live Demo:** <a href="https://portfolio-v2-topaz-pi.vercel.app" target="_blank">Try it Live</a>
+**Live Demo:** <a href="https://rada-it.vercel.app/" target="_blank">Try it Live</a>
 
 ---
 
