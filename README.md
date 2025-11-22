@@ -70,25 +70,25 @@ Interactive web app for realistic conversations with any celebrity using advance
 **GitHub:** <a href="https://github.com/rada-ii/celebrity-chatbot-web" target="_blank">View Repository</a>   
 **Live Demo:** <a href="https://celebrity-chatbot.streamlit.app/" target="_blank">Try it Live</a>
 
----
+----
 
 ### 🚀 Web Development Projects:
 
-#### 📧 **Message Admin** - WordPress Plugin
-Advanced message management system with smart targeting, analytics dashboard, and comprehensive admin interface.  
-**Technologies:** PHP 8.2+, MySQL, JavaScript ES6, Chart.js, CSS Grid  
-**Features:** User Role Targeting, Page Targeting, Scheduling, Analytics, Import/Export   
-**GitHub:** <a href="https://github.com/rada-ii/message-admin" target="_blank">View Repository</a>   
-**Live Demo:** <a href="https://dev-message-admin.pantheonsite.io/home/" target="_blank">Try it Live</a>
+----
+
+#### 🏨 **Digital Reception**
+Full-stack hotel reception application with multilingual routing
+(sr/en/hr), automated email workflows (Resend API), PostgreSQL
+database with Prisma ORM, custom API endpoints, and SEO-
+optimized responsive UI.
+**Technologies:**  Next.js 15, React 19, TypeScript, Prisma ORM, PostgreSQL,
+Resend API, next-intl, Framer Motion
+**GitHub:** <a href="https://github.com/rada-ii/digital-reception" target="_blank">View Repository</a>  
+**Live Demo:** <a href="https://digitalreception.net/" target="_blank">Try it Live</a>
 
 ---
 
-#### 🏨 **WordPress Hotel Booking Plugin**
-Complete hotel reservation system with Beds24 API integration, Stripe payments, and test mode for development.  
-**Technologies:** WordPress, PHP, JavaScript, Stripe API, Beds24 API  
-**Live Demo:** <a href="https://dev-bookingroom.pantheonsite.io/booking/" target="_blank">Try it Live</a>
 
----
 
 #### 🎉 **Event Manager**
 Full-stack event management platform with user authentication, image uploads, and real-time updates.  
